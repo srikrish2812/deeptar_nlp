@@ -1,4 +1,4 @@
-# deeptar_nlp
+# deeptar_nlp - Task 2 Mainly ML
 
 The hardware used for this project is Macbook M1 pro 16gb ram. The environment creation steps are exclusive to macOS only. Please refer online guide to create a python virtual environment in Windows.
 
